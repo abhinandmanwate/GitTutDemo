@@ -1,3 +1,5 @@
 This is version 1 of my project  
 Now I updated the file.so this file is new version
 Now I'm learning to how to skip the stagging area and commit directly
+Now,I have reinitialized the .git in directory 
+
